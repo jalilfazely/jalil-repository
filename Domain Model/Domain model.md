@@ -1569,13 +1569,4 @@
   <tr>
     <td><img src="img/UC-14 backup properties.bmp" width="684" height="473"></td>
   </tr>
-  <tr>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> </td>
-  </tr>
-   <tr>
-    <td> </td>
-  </tr>
-</table>
+ </table>
