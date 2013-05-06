@@ -3,7 +3,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-2 Responsibility</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Archiving</strong></p>
+          <p align="center"> UC-2  :Responsibility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility Description</p></td>
@@ -105,7 +106,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-3 Responsibility</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Search</strong></p>
+          <p align="center">UC-3 Responsibility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility Description</p></td>
@@ -251,7 +253,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-4</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Report</strong></p>
+          <p align="center">UC-4 Responbisility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility Description</p></td>
@@ -377,7 +380,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-5 Responsibility</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Automatic Backup</strong></p>
+          <p align="center">UC-5 Responsibility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility Description</p></td>
@@ -488,7 +492,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-6</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Manual Backup</strong></p>
+          <p align="center">UC-6 Responsibility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility Description</p></td>
@@ -599,7 +604,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left" width="625">
       <tr>
-        <td width="625" colspan="3" valign="top"><p align="center">UC-7 Responsibility</p></td>
+        <td width="625" colspan="3" valign="top"><p align="center"><strong>Add Category</strong></p>
+          <p align="center">UC-7 Responsibility</p></td>
       </tr>
       <tr>
         <td width="432" valign="top"><p>Responsibility    Description</p></td>
@@ -710,7 +716,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left" width="625">
       <tr>
-        <td width="625" colspan="3" valign="top"><p align="center">UC-8 Responsibility</p></td>
+        <td width="625" colspan="3" valign="top"><p align="center"><strong>Delete Category </strong></p>
+          <p align="center">UC-8 Responsibility</p></td>
       </tr>
       <tr>
         <td width="432" valign="top"><p>Responsibility    Description</p></td>
@@ -821,7 +828,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="601" colspan="3" valign="top"><p><strong>Responsibility descriptions for UC-9:    Record Edition</strong></p></td>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong>Record Edition</strong></p>
+          <p align="center"> UC-9:     Responsibility</p></td>
       </tr>
       <tr>
         <td width="357" valign="top"><p><strong>Responsibility  Description</strong></p></td>
@@ -881,7 +889,7 @@
         <td width="200" valign="top"><p><strong> </strong></p></td>
       </tr>
       <tr>
-        <td width="601" colspan="3" valign="top"><p><strong>Identifying    associations for use case UC-9: Record Edition </strong></p></td>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong>   UC-9:Associations</strong></p></td>
       </tr>
       <tr>
         <td width="200" valign="top"><p><strong>Concept pair</strong></p></td>
@@ -927,7 +935,7 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="601" colspan="3" valign="top"><p><strong>Attributes for use case UC-9: Record Edition </strong></p></td>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong> UC-9: Attributes</strong></p></td>
       </tr>
       <tr>
         <td width="200" valign="top"><p><strong>Concept</strong></p></td>
@@ -971,7 +979,8 @@
    <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="601" colspan="3" valign="top"><p><strong>Responsibility descriptions for    UC-10: Record Deletion</strong></p></td>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong> Record Deletion</strong></p>
+          <p align="center"> UC-10: Responsibility</p></td>
       </tr>
       <tr>
         <td width="357" valign="top"><p><strong>Responsibility  Description</strong></p></td>
@@ -1026,7 +1035,7 @@
    <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="601" colspan="3" valign="top"><p><strong>Attributes for use case UC-10: Record Deletion</strong></p></td>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong>  UC-10: Attributes</strong></p></td>
       </tr>
       <tr>
         <td width="200" valign="top"><p><strong>Concept</strong></p></td>
@@ -1067,7 +1076,7 @@
         <td width="200" valign="top"><p><strong> </strong></p></td>
       </tr>
       <tr>
-        <td width="601" colspan="3" valign="top"><p><strong>Identifying    associations for use case UC-10: Record Deletion </strong></p></td>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong>  UC-10: associations</strong></p></td>
       </tr>
       <tr>
         <td width="200" valign="top"><p><strong>Concept pair</strong></p></td>
@@ -1118,6 +1127,42 @@
   </tr>
    </tr>
   <tr>
+     <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table border="1" cellspacing="0" cellpadding="0" align="left">
+      <tr>
+        <td width="601" colspan="3" valign="top"><p align="center"><strong> UC-10: Attributes</strong></p></td>
+      </tr>
+      <tr>
+        <td width="200" valign="top"><p><strong>Concept</strong></p></td>
+        <td width="200" valign="top"><p>Attributes</p></td>
+        <td width="200" valign="top"><p>Attribute    Description</p></td>
+      </tr>
+      <tr>
+        <td width="200" valign="top"><p><strong>Search    Request</strong></p></td>
+        <td width="200" valign="top"><p>SearchParameters</p></td>
+        <td width="200" valign="top"><p>Need to    Filter the retrieved records to match the actor&rsquo;s search criteria.</p></td>
+      </tr>
+      <tr>
+        <td width="200" valign="top"><p><strong>Investigation </strong><br>
+          <strong>Request</strong></p></td>
+        <td width="200" valign="top"><p>records    list</p></td>
+        <td width="200" valign="top"><p>List of &ldquo;Matching&rdquo;    records generated</p></td>
+      </tr>
+      <tr>
+        <td width="200" valign="top"><p><strong>Deletor(record    remover)</strong></p></td>
+        <td width="200" valign="top"><p>IsRemoved</p></td>
+        <td width="200" valign="top"><p>Needed to    check that if the record was removed</p></td>
+      </tr>
+      <tr>
+        <td width="200" valign="top"><p><strong>Notifier</strong></p></td>
+        <td width="200" valign="top"><p>RecordName</p></td>
+        <td width="200" valign="top"><p>Needed to    notify that  the record was removed</p></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
     <td><img src="img/Usecase-10.bmp" width="656" height="532"></td>
   </tr>
   <tr>
@@ -1126,7 +1171,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left" width="625">
       <tr>
-        <td width="625" colspan="3" valign="top"><p align="center">UC-11 Responsibility</p></td>
+        <td width="625" colspan="3" valign="top"><p align="center"><strong>Add User </strong></p>
+          <p align="center">UC-11 Responsibility</p></td>
       </tr>
       <tr>
         <td width="432" valign="top"><p>Responsibility    Description</p></td>
@@ -1240,7 +1286,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left" width="625">
       <tr>
-        <td width="625" colspan="3" valign="top"><p align="center">UC-12 Responsibility</p></td>
+        <td width="625" colspan="3" valign="top"><p align="center"><strong>Remove User</strong></p>
+          <p align="center">UC-12 Responsibility</p></td>
       </tr>
       <tr>
         <td width="432" valign="top"><p>Responsibility    Description</p></td>
@@ -1355,7 +1402,8 @@
    <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-13</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Authenticate User</strong></p>
+          <p align="center">UC-13 Responsibility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility    Description</p></td>
@@ -1474,7 +1522,8 @@
   <tr>
     <td><table border="1" cellspacing="0" cellpadding="0" align="left">
       <tr>
-        <td width="623" colspan="3" valign="top"><p align="center">UC-14 Responsibility</p></td>
+        <td width="623" colspan="3" valign="top"><p align="center"><strong>Set Backup Properties</strong></p>
+          <p align="center">UC-14 Responsibility</p></td>
       </tr>
       <tr>
         <td width="431" valign="top"><p>Responsibility Description</p></td>
@@ -1569,4 +1618,4 @@
   <tr>
     <td><img src="img/UC-14 backup properties.bmp" width="684" height="473"></td>
   </tr>
- </table>
+</table>
